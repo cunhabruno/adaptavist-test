@@ -10,6 +10,7 @@
 
 ``` 
 npm install
+mkdir output
 ```
 
 ## Execute the test

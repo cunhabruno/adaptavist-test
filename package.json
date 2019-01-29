@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "selenium-cucumber-easy": "file:../selenium-cucumber-easy",
+    "selenium-cucumber-easy": "^1.0.5",
     "selenium-webdriver": "^4.0.0-alpha.1"
   }
 }
